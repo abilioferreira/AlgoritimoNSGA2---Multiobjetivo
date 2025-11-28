@@ -32,9 +32,6 @@ Foram usados conjuntos de 28, 56 e 112 itens, com capacidades de 3, 6 e 9 m³.
   - volume e quantidade de itens da melhor solução,
   - tempo médio de execução.
 
-- `apresentacao/main.tex`  
-  Arquivo da apresentação em Beamer, usada na disciplina Tópicos Avançados em IA (UFRPE), comparando o NSGA-II com o AG monoobjetivo do Abner.
-
 ---
 
 ## Formulação do problema
