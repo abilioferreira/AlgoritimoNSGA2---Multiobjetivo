@@ -44,8 +44,8 @@ Foram usados conjuntos de 28, 56 e 112 itens, com capacidades de 3, 6 e 9 m³.
   - 0: item não selecionado
 
 - Objetivos:
-  - \( \text{valor} = \sum v_i \)
-  - \( \text{custo} = 1000 \cdot \text{volume\_total} + 10 \cdot \text{qtd\_itens} \)
+  - Objetivo 1 (maximização): valor total da carga valor = soma dos valores dos itens selecionados
+  - Objetivo 2 (minimização): custo logístico custo = 1000 × volume_total + 10 × quantidade_de_itens
 
 - Restrição:
   - Se o volume total excede a capacidade do caminhão, a solução é penalizada (valor muito baixo e custo muito alto).
