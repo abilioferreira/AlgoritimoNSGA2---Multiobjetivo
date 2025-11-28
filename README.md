@@ -13,6 +13,7 @@ Foram usados conjuntos de 28, 56 e 112 itens, com capacidades de 3, 6 e 9 m³.
 
 ## Estrutura do repositório
 
+- `nsga2_mochila28.py`  
 - `nsga2_mochila56.py`  
 - `nsga2_mochila112.py`  
   Implementações do NSGA-II para instâncias com 56 e 112 itens (a versão de 28 segue a mesma lógica).
